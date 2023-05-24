@@ -1,0 +1,24 @@
+{
+  "name": "e-commerce-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komalprojects/E-Commerce-BE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/komalprojects/E-Commerce-BE/issues"
+  },
+  "homepage": "https://github.com/komalprojects/E-Commerce-BE#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.2.0",
+    "nodemon": "^2.0.22"
+  }
+}

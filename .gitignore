@@ -1,0 +1,11 @@
+# Ignore compiled binaries
+*.exe
+*.o
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore IDE and editor-specific files
+.idea/
+.vscode/
+node_modules/
